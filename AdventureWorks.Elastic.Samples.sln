@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticScaleStarterKit", "ElasticScaleStarterKit\ElasticScaleStarterKit.csproj", "{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AW", "AW\AW.sqlproj", "{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7BE2AC-0C79-4533-89AC-D62E9751EB72}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+	EndGlobalSection
+EndGlobal

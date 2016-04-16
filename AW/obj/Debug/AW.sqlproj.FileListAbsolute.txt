@@ -1,0 +1,5 @@
+C:\lab\azurelab2016-elasticscale\AW\bin\Debug\AW.dacpac
+C:\lab\azurelab2016-elasticscale\AW\obj\Debug\AW.dll
+C:\lab\azurelab2016-elasticscale\AW\obj\Debug\AW.pdb
+C:\lab\azurelab2016-elasticscale\AW\bin\Debug\AW.dll
+C:\lab\azurelab2016-elasticscale\AW\bin\Debug\AW.pdb

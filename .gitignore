@@ -1,0 +1,8 @@
+/AW/*.pubxml
+
+/AW/bin
+/AW/obj
+
+/ElasticScaleStarterKit/bin
+/ElasticScaleStarterKit/obj
+/packages
